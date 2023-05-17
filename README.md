@@ -14,9 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center">
 [![Tejasvni's github stats](https://github-readme-stats.vercel.app/api?username=tjdhir119&theme=onedark&show_icons=true&count_private=true)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tjdhir119&theme=onedark&layout=compact&exclude_repo=MyFirstUnityTrial)](https://www.youtube.com/channel/UC7_YxT-KID8kRbqZo7MyscQ)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tjdhir119&theme=onedark)](https://www.youtube.com/watch?v=PzQihlLABng)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tjdhir119&theme=onedark)](https://www.youtube.com/watch?v=PzQihlLABng) </p>
 
 <h3 align="center">🏆Trophies🏆</h3>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tjdhir119&margin-w=30&theme=onedark" alt="tjdhir119" /></a> </p>
