@@ -36,9 +36,9 @@ Here are some ideas to get you started:
 ***Let's work together (:***
 <p align="left">
 <!-- <a href="https://twitter.com/@ghodeswartanmay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@ghodeswartanmay" height="30" width="40" /></a> -->
-<a href="https://www.linkedin.com/in/tejasvni-dhir-9ab891211/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanmay ghodeswar" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/tejasvni-dhir-9ab891211/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tejasvni dhir" height="30" width="40" /></a>
 <!-- <a href="https://kaggle.com/tanmay ghodeswar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="tanmay ghodeswar" height="30" width="40" /></a> -->
-<a href="https://instagram.com/tejasvni_dhir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tanned_in_may" height="30" width="40" /></a>
+<a href="https://instagram.com/tejasvni_dhir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tejasvni_dhir" height="30" width="40" /></a>
 <!-- <a href="https://medium.com/@ghodeswar.tanmay22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ghodeswar.tanmay22" height="30" width="40" /></a> -->
-<!-- <a href="https://www.hackerrank.com/tanmay ghodeswar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="tanmay ghodeswar" height="30" width="40" /></a> -->
+<a href="https://www.hackerrank.com/tjdhir119" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="tjdhir119" height="30" width="40" /></a>
 </p>
