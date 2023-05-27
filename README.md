@@ -29,6 +29,7 @@ Here are some ideas to get you started:
  - [Stanford's Supervised Machine Learning: Regression and Classification](https://coursera.org/share/90fc4de24bf044f6d1dfaed11ebaf233)
  - [IBM's What is Data Science?](https://coursera.org/share/804e2478ac000f8d3d292cd38567953e)
  - [IBM's Tools for Data Science](https://coursera.org/share/4cfffcda7ddf9fc547fbac1e32d7ad1e)
+ - [IBM's Data Science Methodology](https://coursera.org/share/9f4e0d2f69d7c57d021ff39b1229c2cc)
 
 **Trophies:**
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tjdhir119&margin-w=30&theme=onedark" alt="tjdhir119" /></a> </p>
