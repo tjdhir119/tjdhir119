@@ -27,9 +27,11 @@ Here are some ideas to get you started:
 
 **Certificates I've Earned:**
  - [Stanford's Supervised Machine Learning: Regression and Classification](https://coursera.org/share/90fc4de24bf044f6d1dfaed11ebaf233)
- - [IBM's What is Data Science?](https://coursera.org/share/804e2478ac000f8d3d292cd38567953e)
- - [IBM's Tools for Data Science](https://coursera.org/share/4cfffcda7ddf9fc547fbac1e32d7ad1e)
- - [IBM's Data Science Methodology](https://coursera.org/share/9f4e0d2f69d7c57d021ff39b1229c2cc)
+ - [IBM's Introduction to Data Science Specialization](https://coursera.org/share/7d32a30cf51418d0c858e8e6e0c5bd3d)
+     - [IBM's What is Data Science?](https://coursera.org/share/804e2478ac000f8d3d292cd38567953e)
+     - [IBM's Tools for Data Science](https://coursera.org/share/4cfffcda7ddf9fc547fbac1e32d7ad1e)
+     - [IBM's Data Science Methodology](https://coursera.org/share/9f4e0d2f69d7c57d021ff39b1229c2cc)
+     - [IBM's Databases and SQL for Data Science with Python](https://coursera.org/share/b18f7681a476128dc54b41d54d98a472)
 
 **Trophies:**
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tjdhir119&margin-w=30&theme=onedark" alt="tjdhir119" /></a> </p>
