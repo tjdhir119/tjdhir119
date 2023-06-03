@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 
 **Stats for Nerds:**
 <br>
-[![Tejasvni's github stats](https://github-readme-stats.vercel.app/api?username=tjdhir119&theme=onedark&show_icons=true&count_private=true)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tjdhir119&theme=onedark&layout=compact&exclude_repo=MyFirstUnityTrial)](https://www.youtube.com/channel/UC7_YxT-KID8kRbqZo7MyscQ)  
+<!-- [![Tejasvni's github stats](https://github-readme-stats.vercel.app/api?username=tjdhir119&theme=onedark&show_icons=true&count_private=true)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)   -->
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tjdhir119&theme=onedark)](https://www.youtube.com/watch?v=PzQihlLABng) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tjdhir119&theme=onedark&layout=compact&exclude_repo=MyFirstUnityTrial)](https://www.youtube.com/channel/UC7_YxT-KID8kRbqZo7MyscQ)  
 
 **Certificates I've Earned:**
  - [Stanford's Supervised Machine Learning: Regression and Classification](https://coursera.org/share/90fc4de24bf044f6d1dfaed11ebaf233)
@@ -32,9 +32,9 @@ Here are some ideas to get you started:
      - [IBM's Tools for Data Science](https://coursera.org/share/4cfffcda7ddf9fc547fbac1e32d7ad1e)
      - [IBM's Data Science Methodology](https://coursera.org/share/9f4e0d2f69d7c57d021ff39b1229c2cc)
      - [IBM's Databases and SQL for Data Science with Python](https://coursera.org/share/b18f7681a476128dc54b41d54d98a472)
-
+<!-- 
 **Trophies:**
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tjdhir119&margin-w=30&theme=onedark" alt="tjdhir119" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tjdhir119&margin-w=30&theme=onedark" alt="tjdhir119" /></a> </p> -->
 
 ***Let's work together (:***
 <p align="left">
